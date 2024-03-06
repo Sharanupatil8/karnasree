@@ -9,9 +9,14 @@
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
+
+html {
+    overflow-x : hidden;
+}
 body {
   font-family: "Poppins", sans-serif;
   color: #555555;
+  overflow-x : hidden;
 }
 
 h1,
