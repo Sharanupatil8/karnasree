@@ -1,17 +1,18 @@
+/**
+* Template Name: EstateAgency
+* Updated: Jan 29 2024 with Bootstrap v5.3.2
+* Template URL: https://bootstrapmade.com/real-estate-agency-bootstrap-template/
+* Author: BootstrapMade.com
+* License: https://bootstrapmade.com/license/
+*/
 
 /*--------------------------------------------------------------
 # General
 --------------------------------------------------------------*/
-
-html {
-  overflow-x : hidden;
 body {
   font-family: "Poppins", sans-serif;
   color: #555555;
-  overflow-x : hidden;
 }
-
-
 
 h1,
 h2,
@@ -1169,7 +1170,6 @@ a:hover {
 @media (max-width: 767px) {
   .card-box-a,
   .card-box-b,
-  .,
   .card-box-d {
     margin-bottom: 2.5rem;
   }
@@ -1177,7 +1177,6 @@ a:hover {
 
 .card-box-a span,
 .card-box-b span,
-. span,
 .card-box-d span {
   line-height: 0;
 }
@@ -1185,7 +1184,6 @@ a:hover {
 @media (min-width: 768px) {
   .grid .card-box-a,
   .grid .card-box-b,
-  .grid .,
   .grid .card-box-d {
     margin-bottom: 2.5rem;
   }
@@ -1694,10 +1692,7 @@ a:hover {
   padding-left: 0.5rem;
 }
 
-.card-box-ico {
-  /* padding: 1rem 3rem 1rem 2.5rem;
-  border: 5px solid #a9a7c0; */
-}
+
 
 .card-box-ico span {
   font-size: 2rem;
